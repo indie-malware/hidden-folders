@@ -13,7 +13,7 @@ int MechKitStub(void) {
         return -1;
     }
 
-    lstrcatA(tempPath, "MechKit");
+    lstrcatA(tempPath, "Hidden"); // Change the folder name to what you want
     lstrcpyA(folderPath, tempPath);
 
     if (CreateDirectoryA(folderPath, NULL) || GetLastError() == ERROR_ALREADY_EXISTS) {
