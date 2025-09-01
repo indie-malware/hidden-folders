@@ -1,2 +1,4 @@
-# hidden-folders
-Create hidden folders in AppData, Temp, and more!
+# Hidden Folders
+Create hidden folders in AppData, Temp, and more!  
+Simple Project!  
+### Enjoy!!
